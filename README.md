@@ -20,7 +20,7 @@
 - Secure connections with proxy support.
 - High speed and performance through multithreading.
 - Fully customizable comments for a personalized experience.
-
+- Bypass Bot Verifications & More.
 ---
 
 ## Legal
