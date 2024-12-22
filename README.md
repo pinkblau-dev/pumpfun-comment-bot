@@ -31,5 +31,5 @@ This tool is for educational purposes only.
 - **Contact:** [Telegram](https://t.me/pinkblau)
 
 ## Video
-[Watch on YouTube](https://youtu.be/J60X9el1pLU)
+[Watch on YouTube](https://youtu.be/qewAYZl9_J0)
 
