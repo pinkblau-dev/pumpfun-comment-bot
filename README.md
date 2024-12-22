@@ -1,4 +1,4 @@
-# Solana Account Manager and Advertisement Manager
+# PumpFun Comment Bot
 
 🌟 **Solana Account Manager and Advertisement Manager** 🌟
 
